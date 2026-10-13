@@ -1,0 +1,12 @@
+﻿============================================================
+  Exp 4 - 8 Puzzle Heuristic
+============================================================
+
+Initial State:
+[1, 2, 3]
+[4, 0, 6]
+[7, 5, 8]
+
+Heuristic Value (Misplaced Tiles): 2
+Goal State Not Reached.
+

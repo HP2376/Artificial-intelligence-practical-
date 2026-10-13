@@ -1,0 +1,29 @@
+﻿============================================================
+  Exp 1 - Tic Tac Toe
+============================================================
+
+- | - | -
+- | - | -
+- | - | -
+X's turn.
+Choose a position from 1-9: X | - | -
+- | - | -
+- | - | -
+O's turn.
+Choose a position from 1-9: X | - | -
+- | O | -
+- | - | -
+X's turn.
+Choose a position from 1-9: X | X | -
+- | O | -
+- | - | -
+O's turn.
+Choose a position from 1-9: X | X | -
+- | O | O
+- | - | -
+X's turn.
+Choose a position from 1-9: X | X | X
+- | O | O
+- | - | -
+X wins!
+

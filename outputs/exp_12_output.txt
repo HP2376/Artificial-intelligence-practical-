@@ -1,0 +1,12 @@
+﻿============================================================
+  Exp 12 - Text Processing
+============================================================
+
+Enter a text: 
+--- Text Processing Result ---
+Lowercase: i love python. it is amazing! do you like it?
+Uppercase: I LOVE PYTHON. IT IS AMAZING! DO YOU LIKE IT?
+Number of words: 10
+Number of characters: 45
+Number of sentences: 3
+
